@@ -1,7 +1,7 @@
 ## Hola 👋
 
 
-**Soy Leandro Funes, un apasionado de los datos y de la tecnología 👨‍💻 con experiencia en Python y en el análisis de datos. Me especializo en proyectos de análisis de datos, ETL y conocimientos en Machine Learning . <br> Con habilidades prácticas en diversas tecnologías del sector. Me encanta aprender y mejorar continuamente mis habilidades para aportar valor a los equipos en los que trabajo 🚀.**
+**Soy Leandro Funes, apasionado de los datos y de la tecnología 👨‍💻 con experiencia en Python y en el análisis de datos. Me especializo en proyectos de análisis de datos, ETL y conocimientos en Machine Learning . <br> Con habilidades prácticas en diversas tecnologías del sector. Me encanta aprender y mejorar continuamente mis habilidades para aportar valor a los equipos en los que trabajo 🚀.**
 
 <br/>
 
